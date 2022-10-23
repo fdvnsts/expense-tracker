@@ -3,4 +3,4 @@
 
 В данной версии есть возможность записывать расходы в эксель файл, который лежит в репозитории с программой ("20221.xlsx")
 
-[https://github.com/fdvnsts/expense-tracker/wiki|Ссылка]
+[Ссылка на wiki проекта](https://github.com/fdvnsts/expense-tracker/wiki)
